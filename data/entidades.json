@@ -158,49 +158,16 @@
   },
   "Educación Física": {
     "axis": {
-      "Constitución Corporal": {
-        "alias": "constitucion corporal",
-        "blocks": {
-          "Capacidades Condicionales": {
-            "alias": "capacidades condicionales"
-          },
-          "Capacidades Coordinativas": {
-            "alias": "capacidades coordinativas"
-          }
-        }
-      },
-      "Consciencia Corporal": {
-        "alias": "consciencia corporal",
+      "Corporeidad y motricidad": {
+        "alias": "corporeidad y motricidad",
         "blocks": {}
       },
-      "Habilidades Motrices": {
-        "alias": "habilidades motrices",
+      "Corporeidad y sociomotricidad": {
+        "alias": "corporeidad y sociomotricidad",
         "blocks": {}
       },
-      "Construcción del juego socio-motor": {
-        "alias": "construccion del juego socio motor",
-        "blocks": {
-          "Cooperativo y de Oposición": {
-            "alias": "cooperativo y de oposicion"
-          },
-          "Reglamentos": {
-            "alias": "reglamentos"
-          },
-          "Juegos Tradicionales": {
-            "alias": "juegos tradicionales"
-          }
-        }
-      },
-      "Comunicación corporal": {
-        "alias": "comunicacion corporal",
-        "blocks": {
-          "Secuencias motrices": {
-            "alias": "secuencias motrices"
-          }
-        }
-      },
-      "Las acciones motrices en el ambiente": {
-        "alias": "las acciones motrices en el ambiente",
+      "Corporeidad y motricidad en relación con el ambiemte": {
+        "alias": "corporeidad y motricidad en relacion con el ambiente",
         "blocks": {}
       },
       "Sala de Docentes": {
@@ -639,7 +606,14 @@
     "axis": {
       "Convivencia escolar": {
         "alias": "convivencia escolar",
-        "blocks": {}
+        "blocks": {
+          "Inclusión Educativa": {
+            "alias": "inclusion educativa"
+          },
+          "Situaciones Emergentes": {
+            "alias": "situaciones emergentes"
+          }         
+        }
       } 
     },
     "alias": "equipos de orientacion escolar"
