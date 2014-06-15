@@ -606,15 +606,16 @@
     "axis": {
       "Convivencia escolar": {
         "alias": "convivencia escolar",
-        "blocks": {
-          "Inclusión Educativa": {
-            "alias": "inclusion educativa"
-          },
-          "Situaciones Emergentes": {
-            "alias": "situaciones emergentes"
-          }         
-        }
-      } 
+        "blocks": {}
+      },
+      "Inclusión Educativa": {
+        "alias": "inclusion educativa",
+        "blocks": {}
+      },
+      "Situaciones Emergentes": {
+        "alias": "situaciones emergentes",
+        "blocks": {}
+      }
     },
     "alias": "equipos de orientacion escolar"
   },
