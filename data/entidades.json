@@ -313,70 +313,79 @@
     "alias": "matematica",
     "encuadre": "/files/encuadre_matematica.pdf"
   },
-  "Prácticas del Lenguaje": {
+   "Prácticas del Lenguaje": {
     "axis": {
-      "Formación del lector literario": {
-        "alias": "formacion del lector literario",
+      "Formación Literaria": {
+        "alias": "formacion literaria",
         "blocks": {
-          "Cuentos": {
-            "alias": "cuentos"
+          "Para leer, ver y escuchar literatura: Narrativa": {
+            "alias": "para leer ver y escuchar literatura narrativa"
           },
-          "Leyendas": {
-            "alias": "leyendas"
+          "Para leer, ver y escuchar literatura: Poesía": {
+            "alias": "para leer ver y escuchar literatura poesia"
           },
-          "Coplas": {
-            "alias": "coplas"
+          "Para leer, ver y escuchar literatura: Teatro": {
+            "alias": "para leer ver y escuchar literatura teatro"
           },
-          "Refranes": {
-            "alias": "refranes"
+          "Para escribir en torno a la literatura:  Textos Digitales": {
+            "alias": "para escribir en torno a la literatura textos digitales"
           },
-          "Audiolibros": {
-            "alias": "audiolibros"
+          "Para escribir en torno a la literatura:  Recursos Multimediales": {
+            "alias": "para escribir en torno a la literatura recursos multimediales"
           }
         }
       },
       "Formación del estudiante": {
         "alias": "formacion del estudiante",
         "blocks": {
-          "Textos informativos": {
-            "alias": "textos informativos"
+          "Para buscar y seleccionar información: Textos digitales": {
+            "alias": "para buscar y seleccionar informacion textos digitales"
+          },
+          "Para buscar y seleccionar información: Recursos Multimediales": {
+            "alias": "para buscar y seleccionar informacion recursos multimediales"
+          },
+          "Para comunicar lo aprendido: Textos Digitales": {
+            "alias": "para comunicar lo aprendido Textos Digitales"
+          },
+          "Para comunicar lo aprendido: Recursos": {
+            "alias": "para comunicar lo aprendido recursos"
           }
         }
       },
-      "Formación ciudadana": {
-        "alias": "formacion ciudadana",
+      "Formación del Ciudadano": {
+        "alias": "formacion del ciudadano",
         "blocks": {
-          "Afiches": {
-            "alias": "afiches"
+          "Para construir y expresar opiniones: Textos Digitales": {
+            "alias": "para construir y expresar opiniones textos digitales"
           },
-          "Publicidades": {
-            "alias": "publicidades"
+          "Para construir y expresar opiniones: Recursos Multimediales": {
+            "alias": "para construir y expresar opiniones recursos multimediales"
           },
-          "Graffitis": {
-            "alias": "graffitis"
+          "Para leer y comentar: Prensa": {
+            "alias": "para leer y comentar prensa"
           },
-          "Textos periodisticos": {
-            "alias": "textos periodisticos"
+          "Para leer y comentar: Publicidad": {
+            "alias": "para leer y comentar publicidad"
           },
           "Adicciones": {
             "alias": "adicciones"
           }
         }
       },
-      "Programas y Proyectos": {
-        "alias": "programas y proyectos",
+      "Reflexión sobre el lenguaje": {
+        "alias": "reflexion sobre el lenguaje",
         "blocks": {
-          "Educación Para la Salud": {
-            "alias": "educacion para la salud"
+          "Para reflexionar sobre las gramáticas": {
+            "alias": "para reflexionar sobre las gramaticas"
           },
-          "Educación Sexual Integral": {
-            "alias": "educacion sexual integral"
+          "Para reflexionar sobre el sistema de escritura y la ortografía": {
+            "alias": "para reflexionar sobre el sistema de escritura y la ortografia"
           },
-          "Educación Ambiental": {
-            "alias": "educación ambiental"
+          "Para reflexionar sobre la historia de la lengua": {
+            "alias": "Para reflexionar sobre la historia de la lengua"
           },
-          "Educación Científica": {
-            "alias": "educación cientifica"
+          "Para reflexionar sobre los usos sociales del lenguaje": {
+            "alias": "para reflexionar sobre los usos sociales del lenguaje"
           }
         }
       },
