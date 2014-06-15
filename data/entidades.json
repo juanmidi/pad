@@ -166,7 +166,7 @@
         "alias": "corporeidad y sociomotricidad",
         "blocks": {}
       },
-      "Corporeidad y motricidad en relación con el ambiemte": {
+      "Corporeidad y motricidad en relación con el ambiente": {
         "alias": "corporeidad y motricidad en relacion con el ambiente",
         "blocks": {}
       },
@@ -294,10 +294,10 @@
           "Para leer, ver y escuchar literatura: Teatro": {
             "alias": "para leer ver y escuchar literatura teatro"
           },
-          "Para escribir en torno a la literatura:  Textos Digitales": {
+          "Para escribir en torno a la literatura: Textos Digitales": {
             "alias": "para escribir en torno a la literatura textos digitales"
           },
-          "Para escribir en torno a la literatura:  Recursos Multimediales": {
+          "Para escribir en torno a la literatura: Recursos Multimediales": {
             "alias": "para escribir en torno a la literatura recursos multimediales"
           }
         }
@@ -312,7 +312,7 @@
             "alias": "para buscar y seleccionar informacion recursos multimediales"
           },
           "Para comunicar lo aprendido: Textos Digitales": {
-            "alias": "para comunicar lo aprendido Textos Digitales"
+            "alias": "para comunicar lo aprendido textos digitales"
           },
           "Para comunicar lo aprendido: Recursos": {
             "alias": "para comunicar lo aprendido recursos"
@@ -333,9 +333,6 @@
           },
           "Para leer y comentar: Publicidad": {
             "alias": "para leer y comentar publicidad"
-          },
-          "Adicciones": {
-            "alias": "adicciones"
           }
         }
       },
@@ -349,7 +346,7 @@
             "alias": "para reflexionar sobre el sistema de escritura y la ortografia"
           },
           "Para reflexionar sobre la historia de la lengua": {
-            "alias": "Para reflexionar sobre la historia de la lengua"
+            "alias": "para reflexionar sobre la historia de la lengua"
           },
           "Para reflexionar sobre los usos sociales del lenguaje": {
             "alias": "para reflexionar sobre los usos sociales del lenguaje"
