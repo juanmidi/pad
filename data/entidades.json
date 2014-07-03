@@ -143,8 +143,8 @@
           "Hongos y Microorganismos": {
             "alias": "hongos y microorganismos"
           },
-          "Paisajes y Ambientes": {
-            "alias": "paisajes ambientales"
+          "Interacciones entre los seres vivos y el ambiente": {
+            "alias": "interacciones entre los seres vivos y el ambiente"
           }
         }
       },
@@ -628,6 +628,10 @@
       },
       "Salud: cuidado de sí y cuidado del otro": {
         "alias": "salud cuidado de si y cuidado del otro",
+        "blocks": {}
+      },
+      "Sala de Docentes": {
+        "alias": "sala de docentes",
         "blocks": {}
       }           
     },
