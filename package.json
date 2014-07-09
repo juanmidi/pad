@@ -1,6 +1,6 @@
 {
   "name": "PAD",
-  "version": "1.0.10",
+  "version": "1.0.22",
   "private": true,
   "scripts": {
     "start": "node app.js"
