@@ -134,14 +134,11 @@
       "Seres Vivos": {
         "alias": "seres vivos",
         "blocks": {
-          "Animales": {
-            "alias": "animales"
+          "Diversidad de los seres vivos": {
+            "alias": "diversidad de los seres vivos"
           },
-          "Plantas": {
-            "alias": "plantas"
-          },
-          "Hongos y Microorganismos": {
-            "alias": "hongos y microorganismos"
+          "Funciones de los seres vivos": {
+            "alias": "funciones de los seres vivos"
           },
           "Interacciones entre los seres vivos y el ambiente": {
             "alias": "interacciones entre los seres vivos y el ambiente"
@@ -651,7 +648,23 @@
     "axis": {
       "Planes y Programas": {
         "alias": "planes y programas",
-        "blocks": {}
+        "blocks": {
+            "Educación Ambiental": {
+              "alias": "educacion ambiental"
+            },
+            "Educación Científica y tecnológica": {
+              "alias": "educacion cientifica y tecnologica"
+            },
+            "Educación para la Salud": {
+              "alias": "educacion para la salud"
+            },
+            "Educación Sexual Integral": {
+              "alias": "educacion sexual integral"
+            },
+            "Educación Vial": {
+              "alias": "educacion vial"
+            }    
+          }
       }      
     },    
   "alias": "temas transversales"
