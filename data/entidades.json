@@ -649,21 +649,36 @@
       "Planes y Programas": {
         "alias": "planes y programas",
         "blocks": {
-            "Educación Ambiental": {
-              "alias": "educacion ambiental"
+            "Programa Provincial de Actividades Científicas y Tecnológicas Educativas": {
+              "alias": "programa provincial de actividades cientificas y tecnologicas educativas"
             },
-            "Educación Científica y tecnológica": {
-              "alias": "educacion cientifica y tecnologica"
+            "Programa de Derechos Humanos, Memoria y Educación": {
+              "alias": "programa de derechos humanos memoria y educacion"
             },
-            "Educación para la Salud": {
-              "alias": "educacion para la salud"
+            "Educación en Contextos de Encierro": {
+              "alias": "educacion en contextos de encierro"
             },
-            "Educación Sexual Integral": {
-              "alias": "educacion sexual integral"
+            "Programa de Educación y Seguridad Vial": {
+              "alias": "programa de educacion y seguridad vial"
             },
-            "Educación Vial": {
-              "alias": "educacion vial"
-            }    
+            "Programa de Educación Intercultural": {
+              "alias": "programa de educacion intercultural"
+            },
+            "Programa de promoción de derechos de niñas niños y adolescentes": {
+              "alias": "programa de promocion de derechos de ninias ninios y adolescentes"
+            },
+            "Programa de Educación Plurilingüe": {
+              "alias": "programa de educacion plurilingue"
+            },
+            "Programa de Educación para la Ruralidad continental y de Islas": {
+              "alias": "programa de educacion para la ruralidad continental y de islas"
+            },
+            "Programa de Arte y Medios en la Escuela": {
+              "alias": "programa de arte y medios en la escuela"
+            },
+            "Programa Escuelas Promotoras de Salud": {
+              "alias": "programa escuelas promotoras de salud"
+            }
           }
       }      
     },    
