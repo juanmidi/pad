@@ -1,6 +1,6 @@
-# PAD
+# PAD 5 - En Desarrollo
 
-Plataforma de alfabetización digital
+Plataforma de alfabetización digital utilizando [EPM](https://github.com/Dte-ba/epm) como kernel
 
 ## LICENSE
 
